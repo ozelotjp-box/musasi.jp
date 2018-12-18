@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name ozelotjp/musasi
-// @version 1.0
+// @name ozelotjp-box/musasi.jp
+// @version 1.1
 // @author ozelotjp
 // @homepageURL https://github.com/ozelotjp-box/musasi.jp
 // @downloadURL https://github.com/ozelotjp-box/musasi.jp/raw/master/app.user.js
