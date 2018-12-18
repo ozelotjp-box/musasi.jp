@@ -2,8 +2,8 @@
 // @name ozelotjp/musasi
 // @version 1.0
 // @author ozelotjp
-// @homepageURL
-// @downloadURL
+// @homepageURL https://github.com/ozelotjp-box/musasi.jp
+// @downloadURL https://github.com/ozelotjp-box/musasi.jp/raw/master/app.user.js
 // @match https://www.musasi.jp/question/*.html
 // ==/UserScript==
 
