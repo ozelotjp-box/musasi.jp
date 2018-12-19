@@ -1,4 +1,4 @@
-# ozelotjp-box/musasi
+# ozelotjp-box/musasi.jp
 
 インターネットで学科教習ができるMUSASIのUserScriptです。
 
